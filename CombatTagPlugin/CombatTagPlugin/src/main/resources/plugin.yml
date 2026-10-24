@@ -1,0 +1,4 @@
+name: CombatTagPlugin
+version: 1.0
+main: fr.combat.CombatTagPlugin
+api-version: "26.3"
